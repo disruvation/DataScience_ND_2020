@@ -8,7 +8,7 @@ Projects: <br>
 2. Write A Data Science Blog Post <br>
 In this project I analyzed Boston Airbnb data using the CRISP-DM Process and wrote a blog post about my work. 
 
-3. - <br>
+3. <br>
 Lesson 3 does not have a project. Nevertheless it involves smaller notebooks and tasks about general software engineering. 
 
 4. Disaster Response Pipelines <br>
